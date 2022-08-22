@@ -21,14 +21,16 @@ h1 {
   font-size: 8rem;
   color: #4ECCA3;
 }
-
+.invisible{
+  visibility: hidden;
+}
 p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
 
-img {
+.img {
   width: 15%;
 
   }
